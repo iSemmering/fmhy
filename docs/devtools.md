@@ -28,6 +28,7 @@
 * ⭐ **[KrebsOnSecurity](https://krebsonsecurity.com/)** - Cybersecurity News
 * ⭐ **[Lobsters](https://lobste.rs/)** - Dev News / [Highlighter](https://greasyfork.org/en/scripts/40906)
 * [DevURLs](https://devurls.com/) - Dev News
+* [dxsrc](https://dxsrc.org/tools/) - Web Development News
 * [jimmyr](https://jimmyr.com/) - Dev News
 * [daily.dev](https://app.daily.dev/posts) - Dev News
 * [Talos Blog](https://blog.talosintelligence.com/) - Cybersecurity News
@@ -90,6 +91,7 @@
 * [Best-Websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Tiny Helpers](https://tiny-helpers.dev/) / [GitHub](https://github.com/stefanjudis/tiny-helpers)
 * [Tiny Tools](https://tinytools.directory/)
+* [dxsrc Tools](https://dxsrc.org/tools/)
 * [Free For Life](https://free.hrsn.dev/) / [GitHub](https://github.com/wdhdev/free-for-life/)
 * [WebdevHome](https://webdevhome.github.io/)
 * [Free Developer Stuff](https://freestuff.dev/)
@@ -682,7 +684,7 @@
 
 * 🌐 **[Awesome HTML5](https://diegocard.com/awesome-html5)** - HTML5 Resources
 * ⭐ **[HTML Reference](https://htmlreference.io/)**, [HTML Cheat Sheet](https://htmlcheatsheet.com/) or [HTML.com](https://html.com/) - HTML Guides / Cheat Sheets
-* [HTML-Minifier](https://kangax.github.io/html-minifier/) - HTML Minifier
+* [HTML Minifier](https://j9t.github.io/html-minifier/) - HTML Minifier
 * [HTMLRev](https://htmlrev.com/) - Free HTML Templates
 * [Markdown to HTML](https://markdowntohtml.com/) - Markdown to HTML Converter
 * [APlayer](https://aplayer.js.org/), [DPlayer](https://dplayer.diygod.dev/) or [xgplayer](https://h5player.bytedance.com/en/) - HTML5 Video Players
@@ -973,7 +975,7 @@
 
 * 🌐 **[Awesome Accessibility](https://github.com/brunopulis/awesome-a11y)** - Accessibility Tools Index
 * ⭐ **[LightTest](https://lightest.app/)**, [Yellow Lab Tools](https://yellowlab.tools/), [PageSpeed](https://pagespeed.web.dev/), [SpeedVitals](https://speedvitals.com/), [Geofetcher](https://geofetcher.appsinprogress.com/) or [GTmetrix](https://gtmetrix.com/) - Test Webpage Speed
-* ⭐ **[Geekflare Tools](https://domsignal.com/toolbox)** or [Frontend Dogma](https://frontenddogma.com/tools/check/) - Site Benchmarking Tools
+* ⭐ **[Geekflare Tools](https://domsignal.com/toolbox)** - Site Benchmarking Tools
 * [LambDatest](https://www.lambdatest.com/) - Cross Browser Testing Cloud
 * [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [A11ygator](https://a11ygator.chialab.io/) - Accessibility Evaluation Tools
 * [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
@@ -1109,7 +1111,7 @@
 
 ## ▷ Static Page Hosting
 
-* ⭐ **[surge](https://surge.sh/)** - Unlimited Storage / Unlimited Bandwidth 
+* ⭐ **[surge](https://surge.sh/)** - Unlimited Storage / Unlimited Bandwidth
 * ⭐ **[Hugo](https://gohugo.io/)**  - Unlimited Storage / Unlimited Bandwidth
 * ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** / [Discord](https://discord.gg/cloudflaredev) / [Tunnel Client](https://github.com/cloudflare/cloudflared)  - Unlimited Storage (20MB Each) / Unlimited Bandwidth
 * ⭐ **[GitHub Pages](https://pages.github.com/)** - Unlimited Storage / 100GB Bandwidth
